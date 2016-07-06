@@ -26,6 +26,7 @@
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat   |    $1 |
 
+
 ## 代码
     mp["cid"] = rand.Intn(10000)
     }
@@ -39,3 +40,4 @@
 `代码`
 *****************
 另起一行
+
