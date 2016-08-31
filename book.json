@@ -1,7 +1,7 @@
 {
     "plugins": [
         "theme-api",
-        "zealar"
+        "-zealar"
     ],
     "pluginsConfig": {
         "theme-api": {
