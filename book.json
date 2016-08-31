@@ -3,7 +3,8 @@
         "theme-api",
         "-zealar",
         "-wide-page",
-        "-tree"
+        "-tree",
+        "toc"
     ],
     "pluginsConfig": {
         "theme-api": {
