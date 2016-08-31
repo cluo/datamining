@@ -2,7 +2,7 @@
     "plugins": [
         "theme-api",
         "-zealar",
-        "wide-page"
+        "-wide-page"
     ],
     "pluginsConfig": {
         "theme-api": {
