@@ -11,7 +11,6 @@
         }
     },
    "plugins": [
-        "duoshuo",
         "search",
         "advanced-emoji",
         "github",
@@ -64,8 +63,8 @@
         },
          
         "donate": {
-          "wechat": "http://zhangjikai.com/resource/weixin.png",
-          "alipay": "http://zhangjikai.com/resource/alipay.png",
+          "wechat": "#",
+          "alipay": "#",
           "title": "友情赞助",
           "button": "赏",
           "alipayText": "支付宝打赏",
