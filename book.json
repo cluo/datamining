@@ -2,7 +2,8 @@
     "plugins": [
         "theme-api",
         "-zealar",
-        "-wide-page"
+        "-wide-page",
+        "tree"
     ],
     "pluginsConfig": {
         "theme-api": {
