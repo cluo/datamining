@@ -5,7 +5,7 @@
         "-wide-page",
         "-tree",
         "toc",
-        "toc-for-3"
+        "-toc-for-3"
     ],
     "pluginsConfig": {
         "theme-api": {
