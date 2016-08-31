@@ -1,15 +1,83 @@
 {
-    "plugins": [
-        "theme-api",
-        "-zealar",
-        "-wide-page",
-        "-tree",
+    "title" : "电子书|一只尼玛|百哥",
+    "description" : "我们是要出书的男人",
+    "author" : "hunterhug",
+    "generator": "site",
+    "language" : "zh-hans",
+    "gitbook" : "3.2.0",
+    "links" : {
+        "sidebar" : {
+            "网站" : "http://www.lenggirl.com"
+        }
+    },
+   "plugins": [
+        "duoshuo",
+        "search",
+        "advanced-emoji",
+        "github",
+        "ace",
+        "emphasize",
+        "katex",
+        "anchors",
+        "include-codeblock",
+        "mermaid",
+        "tbfed-pagefooter",
+        "sectionx",
+        "expandable-chapters",
+        "codeblock-filename",
+        "baidu",
+        "sitemap",
+        "donate",
+        "local-video",
         "toc",
-        "-toc-for-3"
+        "edit-link"
+       
     ],
     "pluginsConfig": {
-        "theme-api": {
-            "theme": "dark"
-        }
+       "duoshuo": {
+            "short_name": "百哥和陈尼玛",
+            "theme": "default"
+        },
+        "github": {
+            "url": "https://github.com/hunterhug/books"
+        },
+        "search-pro": {
+            "cutWordLib": "nodejieba",
+            "defineWord": ["books"]
+         },
+        
+        "sharing": {
+            "weibo": true,
+            "facebook": true,
+            "twitter": true,
+            "google": false,
+            "instapaper": false,
+             "vk": false,
+            "all": [
+                "facebook", "google", "twitter",
+                "weibo", "instapaper"
+            ]
+        },
+        
+        "tbfed-pagefooter": {
+            "copyright":"Copyright &一只尼玛|百哥 2015",
+            "modify_label": "该文件修订时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+         
+        "donate": {
+          "wechat": "http://zhangjikai.com/resource/weixin.png",
+          "alipay": "http://zhangjikai.com/resource/alipay.png",
+          "title": "友情赞助",
+          "button": "赏",
+          "alipayText": "支付宝打赏",
+          "wechatText": "微信打赏"
+        },
+        
+         "edit-link": {
+                "base": "https://github.com/hunterhug/nima/edit/master",
+                "label": "编辑我吧"
+         }
+        
     }
 }
