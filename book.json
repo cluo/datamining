@@ -4,7 +4,8 @@
         "-zealar",
         "-wide-page",
         "-tree",
-        "toc"
+        "toc",
+        "-toc-for-3"
     ],
     "pluginsConfig": {
         "theme-api": {
