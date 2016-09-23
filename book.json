@@ -1,7 +1,7 @@
 {
-    "title" : "电子书|一只尼玛|百哥",
+    "title" : "数据挖掘策略",
     "description" : "我们是要出书的男人",
-    "author" : "hunterhug",
+    "author" : "陈大师",
     "generator": "site",
     "language" : "zh-hans",
     "gitbook" : "3.2.0",
@@ -32,11 +32,11 @@
     ],
     "pluginsConfig": {
        "duoshuo": {
-            "short_name": "百哥和陈尼玛",
+            "short_name": "hunterhug",
             "theme": "default"
         },
         "github": {
-            "url": "https://github.com/hunterhug/nima"
+            "url": "https://github.com/hunterhug"
         },
         "search-pro": {
             "cutWordLib": "nodejieba",
@@ -57,7 +57,7 @@
         },
         
         "tbfed-pagefooter": {
-            "copyright":"Copyright &一只尼玛|百哥 2015",
+            "copyright":"Copyright &陈大师|百哥 2016",
             "modify_label": "该文件修订时间：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
@@ -72,7 +72,7 @@
         },
         
          "edit-link": {
-                "base": "https://github.com/hunterhug/nima/edit/master",
+                "base": "https://github.com/hunterhug/datamining/edit/master",
                 "label": "编辑我吧"
          }
         
