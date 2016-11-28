@@ -1,6 +1,6 @@
 {
-    "title" : "数据挖掘策略",
-    "description" : "我们是要出书的男人",
+    "title" : "陈大师的知识集",
+    "description" : "乱七八糟的记录",
     "author" : "陈大师",
     "generator": "site",
     "language" : "zh-hans",
@@ -23,7 +23,6 @@
         "sectionx",
         "expandable-chapters",
         "codeblock-filename",
-        "donate",
         "local-video",
         "toc",
         "edit-link"
@@ -56,19 +55,11 @@
         },
         
         "tbfed-pagefooter": {
-            "copyright":"Copyright &陈大师|百哥 2016",
+            "copyright":"Copyright &陈大师 2016",
             "modify_label": "该文件修订时间：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
-         
-        "donate": {
-          "wechat": "#",
-          "alipay": "#",
-          "title": "友情赞助",
-          "button": "赏",
-          "alipayText": "支付宝打赏",
-          "wechatText": "微信打赏"
-        },
+
         
          "edit-link": {
                 "base": "https://github.com/hunterhug/datamining/edit/master",
